@@ -10,4 +10,20 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-**[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+1. Create Github Workspace from Snack
+Ness will give you the link, just click it.
+
+2. Waiting for Codespace to boot and running
+
+3. run `docker-compose up` on terminal
+
+4. Make sure backend should be running and able to connect to the database.
+
+    Test by pointing the browser to: [https://your-codespace-url-3000.githubpreview.dev/api/ping](https://your-codespace-url-3000.githubpreview.dev/api/ping)
+
+5. Check the frontend and make sure it’s connected to the backend
+
+    [https://your-codespace-url-3001.githubpreview.dev/](https://your-codespace-url-3001.githubpreview.dev/)
+
+6. If everything is working properly, you’ll be able to create a new user on sign up page.
+
