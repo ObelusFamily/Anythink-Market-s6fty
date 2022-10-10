@@ -19,7 +19,7 @@ Ness will give you the link, just click it.
 
 4. Make sure backend should be running and able to connect to the database.
 
-    Test by pointing the browser to: [https://your-codespace-url-3000.githubpreview.dev/api/ping](https://your-codespace-url-3000.githubpreview.dev/api/ping)
+    [https://your-codespace-url-3000.githubpreview.dev/api/ping](https://your-codespace-url-3000.githubpreview.dev/api/ping)
 
 5. Check the frontend and make sure it’s connected to the backend
 
